@@ -49,5 +49,6 @@ class MainActivity : AppCompatActivity() {
             binding.resultTextView.text = "The divison of $num1 and $num2 is $division";
         }
 
+
     }
 }
